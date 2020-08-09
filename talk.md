@@ -1,14 +1,13 @@
 class: middle, center, title-slide
 count: false
 
-# Likelihood publication and preservation
-Subtitle of talk
+# Likelihood Publication and Preservation
 
 <br>
 
 .huge.blue[Matthew Feickert]<br>
 .huge[(University of Illinois at Urbana-Champaign)]
-.center.width-5[[![illinois_logo](assets/logos/logo_institution_small.png)](https://physics.illinois.edu/)]<br>
+.center.width-30[[![illinois_logo](assets/logos/logo_institution.png)](https://physics.illinois.edu/)]<br>
 <br>
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
 
@@ -17,7 +16,7 @@ Subtitle of talk
 August 10th, 2020
 
 ---
-# Collaborators
+# `pyhf` dev team
 
 <br><br>
 
