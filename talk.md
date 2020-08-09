@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# Likelihood publicaiton and preservation
+# Likelihood publication and preservation
 Subtitle of talk
 
 <br>
