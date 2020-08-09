@@ -1,7 +1,7 @@
 class: middle, center, title-slide
 count: false
 
-# Talk Template
+# Likelihood publicaiton and preservation
 Subtitle of talk
 
 <br>
@@ -12,9 +12,9 @@ Subtitle of talk
 <br>
 [matthew.feickert@cern.ch](mailto:matthew.feickert@cern.ch)
 
-[Talk Event Name](https://talk-event-url)
+[Snowmass 2021 Computational Frontier Workshop](https://indico.fnal.gov/event/43829/contributions/193820/)
 
-Month DDth, Year
+August 10th, 2020
 
 ---
 # Collaborators
