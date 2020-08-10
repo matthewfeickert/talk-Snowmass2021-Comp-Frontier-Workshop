@@ -196,22 +196,23 @@ UCSC SCIPP
 
 - Background-only model JSON stored
 - Hundreds of signal model JSON Patches stored together as a "patch set" file
-- Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2/r2)] )
+<!-- - Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2/r2)] ) -->
+- Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2)] )
 
 .center.width-90[![HEPData_streamed_likelihoods](figures/carbon_patchset_example.png)]
 
 ---
 # Rapid adoption in ATLAS...
 <!--  -->
-.kol-1-2[
+.kol-1-3[
 - Four ATLAS analyses with full likelihoods published to HEPData
 - ATLAS SUSY will be continuing to publish full Run 2 likelihoods
 ]
-.kol-1-2[
-- [doi:10.17182/hepdata.89408](https://doi.org/10.17182/hepdata.89408) (2019)
-- [doi:10.17182/hepdata.91127](https://doi.org/10.17182/hepdata.91127) (2019)
-- [doi:10.17182/hepdata.92006](https://doi.org/10.17182/hepdata.92006) (2019)
-- [doi:10.17182/hepdata.90607.v2](https://doi.org/10.17182/hepdata.90607.v2) (2020)
+.kol-2-3[
+- direct staus, [doi:10.17182/hepdata.89408](https://doi.org/10.17182/hepdata.89408) (2019)
+- sbottom multi-b, [doi:10.17182/hepdata.91127](https://doi.org/10.17182/hepdata.91127) (2019)
+- 1Lbb, [doi:10.17182/hepdata.92006](https://doi.org/10.17182/hepdata.92006) (2019)
+- 3L eRJR, [doi:10.17182/hepdata.90607.v2](https://doi.org/10.17182/hepdata.90607.v2) (2020)
 ]
 .kol-1-1[
 .kol-1-1[
