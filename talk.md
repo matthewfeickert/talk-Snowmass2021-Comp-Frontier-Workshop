@@ -115,14 +115,13 @@ August 10th, 2020
 ]
 
 ---
-# ...can be streamed from HEPData
+# ...can be used from HEPData
 
 - Background-only model JSON stored
 - Hundreds of signal model JSON Patches stored together as a "patch set" file
 - Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2/r2)] )
 
-TODO: Update example
-.center.width-80[![HEPData_streamed_likelihoods](figures/carbon_HEPData_streamed_likelihoods.png)]
+.center.width-90[![HEPData_streamed_likelihoods](figures/carbon_patchset_example.png)]
 
 ---
 # `pyhf` dev team
