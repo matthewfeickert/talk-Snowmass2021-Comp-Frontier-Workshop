@@ -230,8 +230,10 @@ UCSC SCIPP
 ---
 # ...and by theory
 
-.kol-2-5[
-- `pyhf` likelihoods discussed in the [Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report](https://inspirehep.net/literature/1782722)
+.kol-1-2[
+- `pyhf` likelihoods discussed in
+   - [Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report](https://inspirehep.net/literature/1782722)
+   - [Higgs boson potential at colliders: status and perspectives](https://inspirehep.net/literature/1757043)
 - [SModelS](https://smodels.github.io/) team has implemented a `SModelS`/`pyhf` interface
    - tool for interpreting simplified-model results from the LHC
    - designed to be used by theorists
@@ -239,7 +241,7 @@ UCSC SCIPP
    - Compare simplified likelihood (`SModelS`)
    - to full likelihood (`pyhf`)
 ]
-.kol-3-5[
+.kol-1-2[
 .center.width-100[[![SModels-plot](figures/SModelS_preliminary.png)](https://github.com/scikit-hep/pyhf/issues/620#issuecomment-624638428)]
 
 .italic.smaller[
