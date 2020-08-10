@@ -82,6 +82,7 @@ $$
 .bold[`pyhf`: HistFactory in pure Python hardware accelerated with autodiff]
 .kol-3-5[
 .center.width-100[[![pyhf_PyPI](figures/pyhf_PyPI.png)](https://pypi.org/project/pyhf/)]
+.center.width-15[[![pyhf_logo](https://iris-hep.org/assets/logos/pyhf-logo.png)](https://github.com/scikit-hep/pyhf)]
 ]
 .kol-2-5[
 .grid[
