@@ -35,7 +35,7 @@ August 10th, 2020
 ]
 
 ---
-# Partial likelihoods commonly published/preserved
+# Partial likelihoods have been published/preserved
 
 .kol-1-2[
 .center.width-95[[![CMS_partial_likelihood](figures/CMS_partial_likelihood.png)](https://cds.cern.ch/record/2242860)]
