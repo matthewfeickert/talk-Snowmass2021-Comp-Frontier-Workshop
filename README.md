@@ -1,6 +1,7 @@
 # [Likelihood publication and preservation](https://indico.fnal.gov/event/43829/contributions/193820/)
 
 Talk given at the [Snowmass 2021 Computational Frontier Workshop](https://indico.fnal.gov/event/43829/)
+[![DOI](https://zenodo.org/badge/286181173.svg)](https://zenodo.org/badge/latestdoi/286181173)
 
 Viewable online [here](https://matthewfeickert.github.io/talk-Snowmass2021-Comp-Frontier-Workshop/index.html)
 
