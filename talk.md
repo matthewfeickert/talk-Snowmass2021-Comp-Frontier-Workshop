@@ -126,33 +126,9 @@ August 10th, 2020
 .center.width-90[![HEPData_streamed_likelihoods](figures/carbon_patchset_example.png)]
 
 ---
-# `pyhf` dev team
+class: end-slide, center
 
-<br><br>
-
-.grid[
-.kol-1-3.center[
-.circle.width-80[![Lukas](figures/collaborators/heinrich.jpg)]
-
-[Lukas Heinrich](https://github.com/lukasheinrich)
-
-CERN
-]
-.kol-1-3.center[
-.circle.width-80[![Giordon](https://avatars0.githubusercontent.com/u/761483)]
-
-[Giordon Stark](https://github.com/kratsg)
-
-UCSC SCIPP
-]
-.kol-1-3.center[
-.circle.width-70[![Kyle](figures/collaborators/cranmer.png)]
-
-[Kyle Cranmer](http://theoryandpractice.org/)
-
-NYU
-]
-]
+.large[Backup]
 
 ---
 # HistFactory Template
@@ -171,11 +147,6 @@ $$\begin{aligned}
 - .blue[Main Poisson p.d.f. for bins observed in all channels]
 - .red[Constraint p.d.f. (+ data) for "auxiliary measurements"]
    - encoding systematic uncertainties (normalization, shape, etc)
-
----
-class: end-slide, center
-
-.large[Backup]
 
 
 ---
