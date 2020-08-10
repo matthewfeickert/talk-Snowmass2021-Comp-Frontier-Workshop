@@ -99,37 +99,6 @@ August 10th, 2020
 ]
 
 ---
-# JSON Patch for new signal models
-<!--  -->
-.kol-1-2[
-<br>
-.center.width-90[![demo_JSON](figures/carbon_JSON_spec_short.png)]
-.center[Original model]
-]
-.kol-1-2[
-<!-- <br> -->
-.center.width-90[![patch_file](figures/carbon_patch.png)]
-.center[New Signal (JSON Patch file)]
-]
-.kol-1-1[
-.center.width-60[![demo_JSON](figures/carbon_patched_JSON.png)]
-.center[Reinterpretation]
-]
-
----
-# JSON Patch for new signal models
-<!--  -->
-.center.width-60[![signal_reinterpretation](figures/carbon_reinterpretation.png)]
-.kol-1-2[
-.center.width-50[![measurement_cartoon](figures/measurement_cartoon.png)]
-.center[Original analysis (model A)]
-]
-.kol-1-2[
-.center.width-50[![reinterpretation_cartoon](figures/reinterpretation_cartoon.png)]
-.center[Recast analysis (model B)]
-]
-
----
 # Likelihoods preserved on HEPData
 
 - Background-only model JSON stored
