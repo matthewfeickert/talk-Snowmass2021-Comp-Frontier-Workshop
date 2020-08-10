@@ -50,6 +50,49 @@ August 10th, 2020
 - Idea: Focus on a single more tractable binned model first
 
 ---
+# Enter HistFactory and `pyhf`
+
+$$
+f\left(\mathrm{data}\middle|\mathrm{parameters}\right) =  f\left(\vec{n}, \vec{a}\middle|\vec{\eta}, \vec{\chi}\right) = \color{blue}{\prod\_{c \\,\in\\, \textrm{channels}} \prod\_{b \\,\in\\, \textrm{bins}\_c} \textrm{Pois} \left(n\_{cb} \middle| \nu\_{cb}\left(\vec{\eta}, \vec{\chi}\right)\right)} \\,\color{red}{\prod\_{\chi \\,\in\\, \vec{\chi}} c\_{\chi} \left(a\_{\chi}\middle|\chi\right)}
+$$
+
+.bold[Use:] Multiple disjoint _channels_ (or regions) of binned distributions with multiple _samples_ contributing to each with additional (possibly shared) systematics between sample estimates
+
+.center[HistFactory is used ubiquitously in binned analyses]
+.center[Focus on this flexible p.d.f. template rather than "open world" of models]
+.center[.bold[This is a _mathematical_ representation!] Nowhere is any software spec defined]
+
+.bold[`pyhf`: HistFactory in pure Python hardware accelerated with autodiff]
+.kol-3-5[
+.center.width-100[[![pyhf_PyPI](figures/pyhf_PyPI.png)](https://pypi.org/project/pyhf/)]
+]
+.kol-2-5[
+.grid[
+.kol-1-3.center[
+.circle.width-80[![Lukas](figures/collaborators/heinrich.jpg)]
+
+.center[[Lukas Heinrich](https://github.com/lukasheinrich)]
+
+CERN
+]
+.kol-1-3.center[
+.circle.width-80[![Matthew](https://avatars2.githubusercontent.com/u/5142394)]
+
+.center[[Matthew Feickert](https://www.matthewfeickert.com/)]
+
+Illinois
+]
+.kol-1-3.center[
+.circle.width-70[![Giordon](figures/collaborators/stark.jpg)]
+
+.center[[Giordon <br>Stark](https://github.com/kratsg)]
+
+UCSC SCIPP
+]
+]
+]
+
+---
 # JSON spec fully describes the HistFactory model
 
 .kol-1-4.width-100[
