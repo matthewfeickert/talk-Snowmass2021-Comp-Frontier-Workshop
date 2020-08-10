@@ -114,7 +114,7 @@ UCSC SCIPP
 ]
 
 ---
-# Publications using `pyhf` likelihoods
+# ATLAS validation and publication of likelihoods
 
 .kol-1-2.center.width-95[
 .center.width-100[[![ATLAS_PUB_Note_title](figures/ATLAS_PUB_Note_title.png)](https://cds.cern.ch/record/2684863)]
