@@ -116,13 +116,17 @@ UCSC SCIPP
 ---
 # ATLAS validation and publication of likelihoods
 
-.kol-1-2.center.width-95[
+.kol-1-2[
 .center.width-100[[![ATLAS_PUB_Note_title](figures/ATLAS_PUB_Note_title.png)](https://cds.cern.ch/record/2684863)]
 
-.center.width-100[[![overlay_multiplex_contour](figures/overlay_multiplex_contour.png)](https://cds.cern.ch/record/2684863)]
+.center.width-90[[![overlay_multiplex_contour](figures/overlay_multiplex_contour.png)](https://cds.cern.ch/record/2684863)]
+
+<br>
+.center[(ATLAS, 2019)]
 ]
-.kol-1-2.center.width-100[
+.kol-1-2[
 .center.width-100[[![CERN_news_story](figures/CERN_news_story.png)](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way)]
+.center[(CERN, 2020)]
 ]
 
 ---
