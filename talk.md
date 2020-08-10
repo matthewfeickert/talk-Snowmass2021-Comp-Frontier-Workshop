@@ -27,7 +27,7 @@ August 10th, 2020
    - Combined Performance / Physics Object Groups
    - Systematic Uncertainties
    - Event Selection
-- Unique representation of the analysis to preserve
+- Unique representation of the analysis to reuse and preserve
 ]
 .kol-1-2.width-100[
 <br><br>
@@ -151,10 +151,10 @@ UCSC SCIPP
 # JSON Patch for signal model (reinterpretation)
 <!--  -->
 .center[JSON Patch gives ability to .bold[easily mutate model]]
-.center[Combined with RECAST gives powerful tool for .bold[reinterpretation studies]]
-<br>
 .center[Think: test a .bold[new theory] with a .bold[new patch]!]
 .center[(c.f. [Lukas's RECAST talk](https://indico.fnal.gov/event/43829/contributions/193817/))]
+<br>
+.center[Combined with RECAST gives powerful tool for .bold[reinterpretation studies]]
 <!--  -->
 .kol-1-5[
 <br>
