@@ -74,8 +74,10 @@ August 10th, 2020
 # JSON Patch for signal model (reinterpretation)
 <!--  -->
 .center[JSON Patch gives ability to .bold[easily mutate model]]
+.center[Combined with RECAST gives powerful tool for .bold[reinterpretation studies]]
 <br>
 .center[Think: test a .bold[new theory] with a .bold[new patch]!]
+.center[(c.f. [Lukas's RECAST talk](https://indico.fnal.gov/event/43829/contributions/193817/))]
 <!--  -->
 .kol-1-5[
 <br>
