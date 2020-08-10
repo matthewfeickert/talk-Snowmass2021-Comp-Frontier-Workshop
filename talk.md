@@ -34,7 +34,23 @@ August 10th, 2020
 ]
 
 ---
-# Likelihood serialization...
+# Partial likelihoods commonly published/preserved
+
+.kol-1-2[
+.center.width-95[[![CMS_partial_likelihood](figures/CMS_partial_likelihood.png)](https://cds.cern.ch/record/2242860)]
+.center[([CMS, 2017](https://cds.cern.ch/record/2242860))]
+]
+.kol-1-2[
+<br>
+<br>
+.center.width-100[[![CERN_Analysis_Preservation.png](figures/CERN_Analysis_Preservation.png)](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way)]
+.center[CERN Analysis Preservation implements FAIR data]
+
+.center[([CERN, CHEP 2019](https://indico.cern.ch/event/773049/contributions/3476165/))]
+]
+
+---
+# Full likelihood serialization...
 
 .center[...making good on [19 year old agreement to publish likelihoods](https://indico.cern.ch/event/746178/contributions/3396797/)]
 
