@@ -231,8 +231,7 @@ UCSC SCIPP
 # ...and by theory
 
 .kol-2-5[
-<br>
-
+- `pyhf` likelihoods discussed in the [Les Houches 2019 Physics at TeV Colliders: New Physics Working Group Report](https://inspirehep.net/literature/1782722)
 - [SModelS](https://smodels.github.io/) team has implemented a `SModelS`/`pyhf` interface
    - tool for interpreting simplified-model results from the LHC
    - designed to be used by theorists
