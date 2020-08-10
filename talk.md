@@ -126,6 +126,26 @@ August 10th, 2020
 .center.width-90[![HEPData_streamed_likelihoods](figures/carbon_patchset_example.png)]
 
 ---
+# Summary
+<!--  -->
+- .bold[JSON specification] of `pyhf` likelihoods
+   - human/machine readable, versionable, HEPData friendly, orders of magnitude smaller, long term preservation
+- .bold[Bidirectional translation] of likelihood specifications
+   - ROOT workspaces ↔ `pyhf` JSON
+- Publication for the first time of the .bold[full likelihood] of a search for new physics
+   - Continued publications from .bold[ATLAS SUSY full Run 2 results]
+- .bold[Open publication] on HEPData, reuse and .bold[reinterpretation] with SModelS and RECAST
+
+.kol-1-2.center.width-85[
+[![PUB_note_cover](figures/PUB_note_cover.png)](https://cds.cern.ch/record/2684863)
+([ATLAS, 2019](https://cds.cern.ch/record/2684863))
+]
+.kol-1-2.center.width-80[
+[![SModelS_preliminary](figures/SModelS_preliminary.png)](https://github.com/scikit-hep/pyhf/issues/620#issuecomment-624638428)
+(SModelS of [ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/))
+]
+
+---
 class: end-slide, center
 
 .large[Backup]
