@@ -24,6 +24,7 @@ August 10th, 2020
 - Almost everything we do in the analysis ultimately affects the likelihood and is encapsulated in it
    - Trigger
    - Detector
+   - Combined Performance / Physics Object Groups
    - Systematic Uncertainties
    - Event Selection
 - Unique representation of the analysis to preserve
