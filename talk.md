@@ -292,6 +292,28 @@ $$\begin{aligned}
 - .red[Constraint p.d.f. (+ data) for "auxiliary measurements"]
    - encoding systematic uncertainties (normalization, shape, etc)
 
+---
+# What is `pyhf`?
+
+Please checkout the many resources we have starting with the [website](https://scikit-hep.org/pyhf/) and the [SciPy 2020 talk](https://youtu.be/FrH9s3eB6fU)!
+
+<!-- [![SciPy 2020 talk YouTube](http://i3.ytimg.com/vi/FrH9s3eB6fU/maxresdefault.jpg)](https://youtu.be/FrH9s3eB6fU) -->
+<p align="center">
+<a href="https://youtu.be/FrH9s3eB6fU"><img src="http://i3.ytimg.com/vi/FrH9s3eB6fU/maxresdefault.jpg" width="480" height="270"></a>
+</p>
+.grid[
+.kol-1-3.center[
+.width-60[[![scikit-hep_logo](https://scikit-hep.org/assets/images/logo.png)](https://scikit-hep.org/)]
+]
+.kol-1-3.center[
+<br>
+.width-60[[![pyhf_logo](https://iris-hep.org/assets/logos/pyhf-logo.png)](https://github.com/scikit-hep/pyhf)]
+]
+.kol-1-3.center[
+<br>
+.width-70[[![iris-hep_logo](assets/logos/logo_IRIS-HEP.png)](https://iris-hep.org/)]
+]
+]
 
 ---
 # References
