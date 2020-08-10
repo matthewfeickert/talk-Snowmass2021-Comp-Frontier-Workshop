@@ -27,7 +27,7 @@ August 10th, 2020
    - Combined Performance / Physics Object Groups
    - Systematic Uncertainties
    - Event Selection
-- Unique representation of the analysis to preserve
+- Unique representation of the analysis to reuse and preserve
 ]
 .kol-1-2.width-100[
 <br><br>
