@@ -1,6 +1,6 @@
 # [Likelihood publication and preservation](https://indico.fnal.gov/event/43829/contributions/193820/)
 
-[![DOI](https://zenodo.org/badge/286181173.svg)](https://zenodo.org/badge/latestdoi/286181173)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3978654.svg)](https://doi.org/10.5281/zenodo.3978654)
 
 Talk given at the [Snowmass 2021 Computational Frontier Workshop](https://indico.fnal.gov/event/43829/)
 
