@@ -6,7 +6,6 @@ count: false
 <br>
 
 .huge.blue[Matthew Feickert]<br>
-(on behalf of the `pyhf` dev team and others)<br>
 .huge[(University of Illinois at Urbana-Champaign)]
 .center.width-30[[![illinois_logo](assets/logos/logo_institution.png)](https://physics.illinois.edu/)]<br>
 <br>
