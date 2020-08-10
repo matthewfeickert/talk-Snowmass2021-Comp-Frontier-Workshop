@@ -72,6 +72,18 @@ August 10th, 2020
 ]
 
 ---
+# Publications using `pyhf` likelihoods
+
+.kol-1-2.center.width-95[
+.center.width-100[[![ATLAS_PUB_Note_title](figures/ATLAS_PUB_Note_title.png)](https://cds.cern.ch/record/2684863)]
+
+.center.width-100[[![overlay_multiplex_contour](figures/overlay_multiplex_contour.png)](https://cds.cern.ch/record/2684863)]
+]
+.kol-1-2.center.width-100[
+.center.width-100[[![CERN_news_story](figures/CERN_news_story.png)](https://home.cern/news/news/knowledge-sharing/new-open-release-allows-theorists-explore-lhc-data-new-way)]
+]
+
+---
 # JSON Patch for signal model (reinterpretation)
 <!--  -->
 .center[JSON Patch gives ability to .bold[easily mutate model]]
@@ -125,6 +137,54 @@ August 10th, 2020
 - Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2/r2)] )
 
 .center.width-90[![HEPData_streamed_likelihoods](figures/carbon_patchset_example.png)]
+
+---
+# Rapid adoption in ATLAS...
+<!--  -->
+.kol-1-2[
+- Four ATLAS analyses with full likelihoods published to HEPData
+- ATLAS SUSY will be continuing to publish full Run 2 likelihoods
+]
+.kol-1-2[
+- [doi:10.17182/hepdata.89408](https://doi.org/10.17182/hepdata.89408) (2019)
+- [doi:10.17182/hepdata.91127](https://doi.org/10.17182/hepdata.91127) (2019)
+- [doi:10.17182/hepdata.92006](https://doi.org/10.17182/hepdata.92006) (2019)
+- [doi:10.17182/hepdata.90607.v2](https://doi.org/10.17182/hepdata.90607.v2) (2020)
+]
+.kol-1-1[
+.kol-1-1[
+.kol-1-2[
+.center.width-70[[![SUSY_EWK_3L_validation](figures/SUSY_RPV_HistFitter.png)](https://indico.cern.ch/event/905793/contributions/3811068/)]
+]
+.kol-1-2[
+.center.width-70[[![SUSY_EWK_3L_validation](figures/SUSY_RPV_pyhf.png)](https://indico.cern.ch/event/905793/contributions/3811068/)]
+]
+]
+.center.smaller[SUSY [EWK 3L RPV](https://atlas.cern/updates/physics-briefing/fantastic-decays-and-where-find-them) analysis ([ATLAS-CONF-2020-009](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/CONFNOTES/ATLAS-CONF-2020-009/)): Exclusion curves as a function of mass and branching fraction to $Z$ bosons]
+]
+
+---
+# ...and by theory
+
+.kol-2-5[
+<br>
+
+- [SModelS](https://smodels.github.io/) team has implemented a `SModelS`/`pyhf` interface
+   - tool for interpreting simplified-model results from the LHC
+   - designed to be used by theorists
+- Have produced comparison for .italic[Search for direct stau production in events with two hadronic tau leptons in √s = 13 TeV pp collisions with the ATLAS detector] ([ATLAS-SUSY-2018-04](https://atlas.web.cern.ch/Atlas/GROUPS/PHYSICS/PAPERS/SUSY-2018-04/)) [published likelihood](https://www.hepdata.net/record/ins1765529)
+   - Compare simplified likelihood (`SModelS`)
+   - to full likelihood (`pyhf`)
+]
+.kol-3-5[
+.center.width-100[[![SModels-plot](figures/SModelS_preliminary.png)](https://github.com/scikit-hep/pyhf/issues/620#issuecomment-624638428)]
+
+.italic.smaller[
+So here is one of our first reasonable validation plots.
+It's preliminary, the black line is ATLAS-SUSY-2018-04 official exclusion curve.
+The grey line is SModelS using `pyhf`, running over the published data. &mdash; Wolfgang Waltenberger, CMS/SModelS
+]
+]
 
 ---
 # Summary
