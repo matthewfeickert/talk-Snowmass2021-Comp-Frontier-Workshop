@@ -102,18 +102,26 @@ August 10th, 2020
 # Likelihoods preserved on HEPData
 
 - Background-only model JSON stored
-- Signal models stored as JSON Patch files
-- Together are able to fully preserve the full model (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.89408.v1%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.89408.v1/r2)] )
+- Hundreds of signal model JSON Patches stored together as a "patch set" file
+- Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2/r2)] )
 
-[.center.width-70[![HEPData_likelihoods](figures/HEPData_likelihoods.png)]](https://www.hepdata.net/record/ins1748602)
+.kol-3-5[
+[.center.width-100[![HEPData_likelihoods](figures/HEPData_likelihoods.png)]](https://www.hepdata.net/record/ins1755298?version=2)
+]
+.kol-2-5[
+<br>
+<br>
+.center.width-100[[![carbon_tree_likelihood_archive](figures/carbon_tree_likelihood_archive.png)](https://www.hepdata.net/record/ins1755298?version=2)]
+]
 
 ---
 # ...can be streamed from HEPData
 
 - Background-only model JSON stored
-- Signal models stored as JSON Patch files
-- Together are able to fully preserve the full model (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.89408.v1%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.89408.v1/r2)] )
+- Hundreds of signal model JSON Patches stored together as a "patch set" file
+- Together are able to publish and fully preserve the full likelihood (with own DOI! .width-20[[![DOI](https://img.shields.io/badge/DOI-10.17182%2Fhepdata.90607.v2%2Fr2-blue.svg)](https://doi.org/10.17182/hepdata.90607.v2/r2)] )
 
+TODO: Update example
 .center.width-80[![HEPData_streamed_likelihoods](figures/carbon_HEPData_streamed_likelihoods.png)]
 
 ---
