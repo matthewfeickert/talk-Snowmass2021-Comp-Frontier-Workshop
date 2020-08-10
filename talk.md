@@ -101,7 +101,7 @@ UCSC SCIPP
    - Will be with us forever
 - Parsable by every language
    - Highly portable
-   - No lock in
+   - Bidirectional translation <br>with ROOT
 - Versionable and easily preserved
    - JSON Schema [describing<br> HistFactory specification](https://scikit-hep.org/pyhf/likelihood.html#bibliography)
    - Attractive for analysis preservation
